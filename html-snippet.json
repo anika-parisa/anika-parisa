@@ -1,0 +1,20 @@
+{
+  "HTML Structure with Comment": {
+    "prefix": "htmlstruct",
+    "body": [
+      "<!--${1:Enter name} [Anika Fairooj] [Parisa] [EDIfu-24/2] -->",
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "<head>",
+      "    <meta charset=\"UTF-8\">",
+      "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "    <title>Document</title>",
+      "</head>","$2",
+      "<body>",
+      "    $0",
+      "</body>",
+      "</html>"
+    ],
+    "description": "Basic HTML structure with a creator comment"
+  }
+}
